@@ -7,7 +7,7 @@ After 5 years working in the BA field, I moved to to New Zealand and found my pa
 
 ## Find me around the web 🌎:
 
-<a href = "https://www.instagram.com/jadsonsts/"> Instagram 📸 </a>
+<a href = "https://www.instagram.com/jadsonsts/"> Instagram 📸 </a> <br>
 <a href = "https://medium.com/@jadson.s.carneiro"> Meedium 📝 </a>
 
 <!---
