@@ -2,7 +2,7 @@
 <h3 align="center">I am a former Business Analyst changing my career to iOS development. <br>
   ✨ After 5 years working in the BA field, I moved to New Zealand in 2020 and started study iOS in July 2021.</h3>
 
-- 🌱 I’m currently learning **Swift and it's frameworks**
+- 🌱 I’m currently learning **Swift and its frameworks**
 
 - 📝 I regularly write articles on [medium.com/@jadson.s.carneiro](https://medium.com/@jadson.s.carneiro)
 
