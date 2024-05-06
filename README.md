@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Jadson 👨🏾‍💻</h1>
 <h3 align="center">I am a former Business Analyst changing my career to iOS development. <br>
-  ✨ After 5 years working in the BA field, I moved to New Zealand in 2020 and started study iOS in July 2021.</h3>
+  ✨ After 5 years working in the BA field, I moved to New Zealand in 2020 and started studying iOS in July 2021.</h3>
 
 - 🌱 I’m currently learning **Swift and its frameworks**
 
