@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Jadson 👨🏾‍💻</h1>
 <h3 align="center">I am a former Business Analyst changing my career to iOS development. <br>
-  ✨ After 5 years working in the BA field, I moved to New Zealand in 2020 and started studying iOS in July 2021.</h3>
+  ✨ With a background in Business analysis, I've transitioned to iOS development driven by my passion for creativity and problem-solving. My background in requirement gathering and troubleshooting enriches my coding approach, making me a dedicated learner and contributor to innovative solutions. ![image](https://github.com/jadsonsts/jadsonsts/assets/88126861/561673e9-5000-489a-9e53-c12eb5497b94).</h3>
 
 - 🌱 I’m currently learning **Swift and its frameworks**
 
