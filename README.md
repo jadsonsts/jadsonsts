@@ -1,10 +1,9 @@
 <h1 align="center">Hey 👋, I'm Jadson 👨🏾‍💻</h1>
-<h3 align="center">I am a former Business Analyst changing my career to iOS development. <br>
-  ✨ With a background in Business analysis, I've transitioned to iOS development driven by my passion for creativity and problem-solving. My background in requirement gathering and troubleshooting enriches my coding approach, making me a dedicated learner and contributor to innovative solutions.</h3>
+<h3 align="center">I'm a Mobile Developer with hands-on experience building and deploying iOS applications using Swift, UIKit, Firebase and REST APIs. Combining a background in Business Analysis, Quality Assurance and software delivery with strong problem-solving, testing and documentation skills
+ 
+I recently released my first iOS app, HandyBudget – Expense Tracker, built using UIKit, MVC, Firebase Authentication, and Core Data. I’m currently developing V2, refactoring the app to MVVM, migrating to programmatic Auto Layout, and applying SOLID principles to improve scalability and testability.</h3>
 
-- 🌱 I’m currently learning **Swift and its frameworks**
-
-- 📝 I regularly write articles on [medium.com/@jadson.s.carneiro](https://medium.com/@jadson.s.carneiro)
+- 🌱 I’m currently learning **Programmatic UI, SwiftUI, SOLID and MVVM**
 
 - 📫 How to reach me **jadson.s.carneiro@gmail.com**
 
@@ -19,8 +18,6 @@
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jadson-santos-carneiro-22562bb1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jadson-santos-carneiro-22562bb1/" height="30" width="40" /></a>
- <a href="https://twitter.com/jadsoonsts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jadsoonsts" height="30" width="40" /> </a>
-  <a href="https://instagram.com/jadsonsts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jadsonsts" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jadsonsc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn-Jadson" height="30" width="40" /></a>
 </p>
  
